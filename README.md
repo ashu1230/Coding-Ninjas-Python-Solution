@@ -1,3 +1,5 @@
 # Coding Ninjas Python Solution
 
-coding ninjas python for beginners questions and answers 
+Coding ninjas python for beginners questions and answers 
+
+With Code
